@@ -71,7 +71,7 @@ pacman -S mingw-w64-ucrt-x86_64-gcc
 
 ### 3. Compilar
 
-**Opção A — script prontinho (recomendado):**
+**Opção A — script pronto (recomendado):**
 
 ```bat
 build.bat
@@ -193,7 +193,7 @@ Sugestões de melhorias: captura via DirectX/WGC (mais rápido que GDI), detecç
 
 ## 👤 Créditos
 
-Feito com ❤️ por **vkzin**.
+**vkzin**.
 
 ## 📄 Licença
 
